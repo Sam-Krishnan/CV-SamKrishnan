@@ -12,6 +12,14 @@ Sam Krishnan is a Management Professional with a Ph.D. in Biochemistry & Molecul
 - **Cross-functional Leadership** 
 - **Regulatory & Compliance Oversight**
 - **Drug Development Lifecycle Management**
+- **Stakeholder Communication & Engagement**
+- **Risk Identification & Mitigation**
+- **Strategic Planning & Execution**
+- **Consistency in Performance**
+- **Process Improvements**
+- **Timely Deliverables**
+- **Grant Writing & Funding Solicitation**
+- **Collaborative Data Managemen**
 
 {% include_relative _includes/education.md %}
 
