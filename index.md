@@ -4,13 +4,14 @@ layout: homepage
 
 ## About Me
 
-Sean Purcell is a digital health humanist who works at UCSF>
+Sam Krishnan is a Management Professional with a Ph.D. in Biochemistry & Molecular Biology and over 15 years of expertise in chronic disease research, drug discovery, and program management. Proven experience in leading cross-functional teams, driving scientific collaboration, and overseeing multi-institutional research programs valued at $100M+. Adept at strategic program execution, alliance management, regulatory compliance, and risk mitigation. Passionate about developing innovative therapeutic solutions to advance drug development and improve patient outcomes.>
 
-## Research Interests
+## Relevant Skills
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-- **Digital Health Humanities:** I do things.
+- **Program & Alliance Management** 
+- **Cross-functional Leadership** 
+- **Regulatory & Compliance Oversight**
+- **Drug Development Lifecycle Management**
 
 {% include_relative _includes/education.md %}
 
