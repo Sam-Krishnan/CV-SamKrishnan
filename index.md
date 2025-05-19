@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Sam Krishnan is a Management Professional with a Ph.D. in Biochemistry & Molecular Biology and over 15 years of expertise in chronic disease research, drug discovery, and program management. Proven experience in leading cross-functional teams, driving scientific collaboration, and overseeing multi-institutional research programs valued at $100M+. Adept at strategic program execution, alliance management, regulatory compliance, and risk mitigation. Passionate about developing innovative therapeutic solutions to advance drug development and improve patient outcomes.>
+Sam Krishnan is a Management Professional with a Ph.D. in Biochemistry & Molecular Biology and over 15 years of expertise in chronic disease research, drug discovery, and program management. Proven experience in leading cross-functional teams, driving scientific collaboration, and overseeing multi-institutional research programs valued at $100M+. Adept at strategic program execution, alliance management, regulatory compliance, and risk mitigation. Passionate about developing innovative therapeutic solutions to advance drug development and improve patient outcomes.
 
 ## Relevant Skills
 
